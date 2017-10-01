@@ -1,0 +1,180 @@
+{
+    "questionPaper": [
+        {
+            "sem": 1,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 2,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 3,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 4,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 5,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 6,
+            "pattern": [
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                },
+                {
+                    "numberOfQuestions": 2,
+                    "marksPerQuestion": 6
+                }
+            ]
+        },
+        {
+            "sem": 7,
+            "pattern": [
+                {
+                    "numberOfQuestions": 4,
+                    "marksPerQuestion": 10
+                },
+                {
+                    "numberOfQuestions": 4,
+                    "marksPerQuestion": 10
+                }
+            ]
+        },
+        {
+            "sem": 8,
+            "pattern": [
+                {
+                    "numberOfQuestions": 4,
+                    "marksPerQuestion": 10
+                },
+                {
+                    "numberOfQuestions": 4,
+                    "marksPerQuestion": 10
+                }
+            ]
+        }
+    ]
+}

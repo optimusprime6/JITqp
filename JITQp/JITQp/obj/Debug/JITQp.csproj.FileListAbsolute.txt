@@ -1,0 +1,14 @@
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe.config
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.pdb
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.Form1.resources
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.Properties.Resources.resources
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.csproj.GenerateResource.Cache
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.pdb
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe.manifest
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.application
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe.manifest
+C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.application
