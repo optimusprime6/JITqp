@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JITQp.exe" size="11696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JITQp.exe" size="10752">
       <assemblyIdentity name="JITQp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xGwnj50VkD3js/mztnI+hgaPSQ7tjNamffAxndNBZUo=</dsig:DigestValue>
+        <dsig:DigestValue>YJv3HgJn1hj3AHFpPQCla6ovJ5dXReAdY+J9tmqemhY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

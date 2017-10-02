@@ -13,3 +13,19 @@ C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Release\JITQp.application
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Release\JITQp.exe
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Release\JITQp.pdb
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Release\JITQp.csprojResolveAssemblyReference.cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\JITQp.exe.config
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\JITQp.exe.manifest
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\JITQp.application
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\JITQp.exe
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\JITQp.pdb
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\Newtonsoft.Json.dll
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Release\Newtonsoft.Json.xml
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.csprojResolveAssemblyReference.cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.Form1.resources
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.Properties.Resources.resources
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.csproj.GenerateResource.Cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.csproj.CoreCompileInputs.cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.exe.manifest
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.application
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.exe
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Release\JITQp.pdb

@@ -12,3 +12,18 @@ C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe.manifest
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\bin\Debug\JITQp.application
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe.manifest
 C:\Users\Abhishek\Documents\BE\Jayanth\JITQp\JITQp\obj\Debug\JITQp.application
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe.config
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe.manifest
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\JITQp.application
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\JITQp.exe
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\JITQp.pdb
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\Newtonsoft.Json.dll
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\bin\Debug\Newtonsoft.Json.xml
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.Form1.resources
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.Properties.Resources.resources
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.csproj.GenerateResource.Cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.csproj.CoreCompileInputs.cache
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe.manifest
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.application
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.pdb

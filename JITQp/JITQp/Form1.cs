@@ -19,7 +19,7 @@ namespace JITQp
                 configuration = JsonConvert.DeserializeObject<Config>(File.ReadAllText("Config.json"));
 
                 DateTime now = DateTime.Now;
-
+                
                 foreach (Questionpaper questionPaper in configuration.questionPaper)
                 {
                     if (now.Month <= 7 && questionPaper.sem % 2 == 0)
@@ -27,7 +27,6 @@ namespace JITQp
 
                     else if (now.Month > 7 && questionPaper.sem % 2 == 1)
                         comboBox1.Items.Add(questionPaper.sem);
-
                 }
             }
 
@@ -41,6 +40,26 @@ namespace JITQp
         {
             try
             {
+                DateTime now = DateTime.Now;
+
+                 if(now.Month > 7)
+                 {
+                     if(Int16.Parse(comboBox1.Text)%2 == 0)
+                     {
+                        MessageBox.Show("Invalid Sem");
+                        Application.Exit();
+                     }
+                 }
+
+                if (now.Month <= 7)
+                {
+                    if (Int16.Parse(comboBox1.Text) % 2 != 0)
+                    {
+                        MessageBox.Show("Invalid Sem");
+                        Application.Exit();
+                    }
+                }
+
                 int sem = Int16.Parse(comboBox1.Text);
 
                 OpenFileDialog dialog = new OpenFileDialog();
@@ -102,7 +121,7 @@ namespace JITQp
                 }
             }
 
-            catch (Exception)
+            catch (Exception e1)
             {
                 MessageBox.Show("Invalid Sem");
             }

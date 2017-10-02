@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\JITQp",
-    "\\JITQp\\Models"
+    "\\JITQp\\bin",
+    "\\JITQp\\Models",
+    "\\JITQp\\Properties"
   ],
   "SelectedNode": "\\JITQp\\Form1.cs",
   "PreviewInSolutionExplorer": false
