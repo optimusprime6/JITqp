@@ -27,3 +27,4 @@ F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe.manifest
 F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.application
 F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.exe
 F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.pdb
+F:\BE\7th Sem\Jayanth\JITQp\JITQp\obj\Debug\JITQp.csprojResolveAssemblyReference.cache

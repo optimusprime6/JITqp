@@ -47,7 +47,7 @@ namespace JITQp
                      if(Int16.Parse(comboBox1.Text)%2 == 0)
                      {
                         MessageBox.Show("Invalid Sem");
-                        Application.Exit();
+                        return;
                      }
                  }
 
@@ -56,7 +56,7 @@ namespace JITQp
                     if (Int16.Parse(comboBox1.Text) % 2 != 0)
                     {
                         MessageBox.Show("Invalid Sem");
-                        Application.Exit();
+                        return;
                     }
                 }
 
